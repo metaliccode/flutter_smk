@@ -1,6 +1,9 @@
 # flutter_training
 
-A new Flutter project.
+Cara Install (Flutter SDK v3) :
+git clone https://github.com/metaliccode/flutter_smk.git
+flutter clean
+flutter pub dev
 
 ## Getting Started
 
