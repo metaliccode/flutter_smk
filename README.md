@@ -2,7 +2,9 @@
 
 Cara Install (Flutter SDK v3) :
 git clone https://github.com/metaliccode/flutter_smk.git
+# cara Install Project
 ``flutter clean``
+&& 
 ``flutter pub get``
 
 ## Getting Started
